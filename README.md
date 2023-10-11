@@ -70,8 +70,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-
+ - ✅ Click [here](https://react-js-capstone.onrender.com) to see the project
+- ✅ Click [here]() to see the video presentation.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
