@@ -207,7 +207,7 @@ If you like this project, kindly drop a start for the [repository](https://githu
 
 **I would like to thank the following individuals and organizations for their contribution to this project.**
 
-- I would like to express my heartfelt gratitude to [**Microvere**] Microverse Team
+- I would like to express my heartfelt gratitude to Nelson Sakwa for his Original design.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
