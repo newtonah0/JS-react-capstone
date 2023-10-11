@@ -71,7 +71,7 @@
 
 <!-- LIVE DEMO -->
  - ✅ Click [here](https://react-js-capstone.onrender.com) to see the project
-- ✅ Click [here]() to see the video presentation.
+- ✅ Click [here](https://www.loom.com/share/6dbe062e1e3a48b3a8528eaf1d9ff15f?sid=7dae9335-f57e-478b-859a-b2b325fe266a) to see the video presentation.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
