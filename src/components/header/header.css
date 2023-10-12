@@ -1,0 +1,54 @@
+.header {
+  padding: 2.5rem 2rem;
+  box-shadow: 1px -2px 6px 0 rgba(0, 0, 0, 0.75);
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.backOutline {
+  flex: 0.5;
+}
+
+.year {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.view-title {
+  font-size: 2rem;
+  font-weight: bold;
+  flex: 6;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .year {
+    font-size: 1.6rem;
+    font-weight: 700;
+  }
+
+  .view-title {
+    font-size: 1.6rem;
+    font-weight: 700;
+    flex: 6;
+    text-align: center;
+  }
+
+  .mic-icon {
+    flex: 0.7;
+    width: 90%;
+  }
+
+  .gear-icon {
+    flex: 0.7;
+    width: 90%;
+  }
+
+  .backOutline {
+    flex: 0.5;
+    width: 90%;
+  }
+}
