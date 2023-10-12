@@ -1,3 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  /* overflow: hidden; */
+}
+
 .header-section {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -50,9 +58,11 @@
 .fruit-categories {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  overflow: hidden;
 }
 
 .fruit-container {
+  /* width: 70%; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -60,6 +70,7 @@
   padding: 1rem;
   position: relative;
   box-shadow: 1px 1px 6px -1px rgba(0, 0, 0, 0.75);
+  overflow: hidden;
 }
 
 .fruit-img {
@@ -78,4 +89,24 @@
 
 .search-icon {
   cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .fruit-categories {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    overflow: hidden;
+  }
+
+  .fruit-container {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    position: relative;
+    box-shadow: 1px 1px 6px -1px rgba(0, 0, 0, 0.75);
+    overflow: hidden;
+  }
 }
