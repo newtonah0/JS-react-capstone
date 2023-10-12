@@ -25,22 +25,21 @@
 
 @media (max-width: 600px) {
   .year {
-    font-weight: bold;
     font-size: 1.6rem;
     font-weight: 700;
   }
-  
+
   .view-title {
     font-size: 1.6rem;
     font-weight: 700;
     flex: 6;
     text-align: center;
   }
-  
+
   .mic-icon {
     flex: 0.7;
     width: 90%;
-  } 
+  }
 
   .gear-icon {
     flex: 0.7;
