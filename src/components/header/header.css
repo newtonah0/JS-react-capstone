@@ -19,6 +19,7 @@
 
 .view-title {
   font-size: 2rem;
+  font-weight: bold;
   flex: 6;
   text-align: center;
 }
